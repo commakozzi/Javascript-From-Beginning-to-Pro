@@ -61,7 +61,7 @@ End Practice exercise 4.3.
 /* ---------------------------------------------
 Begin Practice exercise 4.4:
 --------------------------------------------- */
-function answerMe () {
+function magic8Ball () {
     let randomSeed = Math.random();
     let rawNumber = randomSeed * 5;  /* allows 6 choices for messages 
                                         (see generateResponse()) */
